@@ -17,15 +17,22 @@ img {
     width: 40%;
     border-radius: 5%;
     background-color: hsl(0, 0%, 100%);
+    padding-bottom: 20px;
   }
 
 h1 {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    font-style: bold;
+    margin: 20px;
 }
 
 p {
   Font-size: 15px;
   color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  margin: 25px;
+  text-align: center;
+  
 }
