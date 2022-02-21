@@ -23,7 +23,7 @@ img {
   }
 
 h1 {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     font-style: bold;
@@ -32,7 +32,7 @@ h1 {
 }
 
 p {
-  Font-size: 12px;
+  Font-size: 15px;
   color: hsl(220, 15%, 55%);
   font-weight: 400;
   margin: 15px;
